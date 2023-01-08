@@ -1,1 +1,0 @@
- Creating recipes using the famous Gordon Ramsey as the target. Demonstarting basic html coding and tools.
